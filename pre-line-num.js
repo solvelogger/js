@@ -1,1 +1,0 @@
-!function(){for(var n=document.getElementsByTagName("pre"),e=n.length,a=0;e>a;a++){n[a].innerHTML='<span class="line-number"></span>'+n[a].innerHTML+'<span class="cl"></span>';for(var s=n[a].innerHTML.split(/\n/).length,r=0;s>r;r++){var l=n[a].getElementsByTagName("span")[0];l.innerHTML+="<span>"+(r+1)+"</span>"}}}();
